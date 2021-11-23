@@ -1,9 +1,6 @@
-Ayesha's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
-## Summary 
+# Ayesha's Notes
 
-This repository contains all of the notes taken by https://github.com/AyeshaShaharyar for the https://www.lighthouselabs.ca/ Web Development Bootcamp.
+This repository contains all of the notes taken by [Ayesha](https://github.com/AyeshaShaharyar) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 ### Table of Contents
 * [Week 1](/Week_1)
